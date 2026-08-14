@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backend ignores
+backend/venv/
+backend/.env
+backend/.pytest_cache/
+backend/__pycache__/
+backend/**/*.pyc
+backend/data/
+
+# Frontend ignores
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
