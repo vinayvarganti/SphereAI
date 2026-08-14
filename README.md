@@ -2,18 +2,6 @@
 
 AgentSphere AI is an enterprise-grade agentic B2B customer discovery and prospect intelligence platform. By combining stateful multi-agent graphs with strict human-in-the-loop safety checkpoints, AgentSphere AI automatically identifies qualified target organizations, extracts relevant buying personas, enriches contact details, and compiles structured sales briefs.
 
-🔗 **GitHub Repository:** [karthik5649/AgentShpereAI](https://github.com/karthik5649/AgentShpereAI)
-
-## 👥 Team Details
-
-| Roll Number | Name | Email |
-| :--- | :--- | :--- |
-| `23071A05J4` | P Karthik Reddy | [palakolukarthikreddy@gmail.com](mailto:palakolukarthikreddy@gmail.com) |
-| `23071A05J6` | P Bharath | [potlabharath731@gmail.com](mailto:potlabharath731@gmail.com) |
-| `23071A6636` | Kumbam Sathwik | [sathwikkumbum@gmail.com](mailto:sathwikkumbum@gmail.com) |
-
----
-
 ## 🏗️ Architecture Topology
 
 ```mermaid
